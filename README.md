@@ -28,7 +28,7 @@ The objective of this project is to build a machine learning classification mode
 - **Matplotlib/Seaborn**: Data visualization
 - **scikit-learn**: Machine Learning algorithms and metrics
 - **Google Colab**: Execution environment
-- **Ipima_diabetes_data**: Open large-scale transportation datasets
+- **pima_diabetes_data**: Open large-scale transportation datasets
 
 ## 📂 Files Included
 
@@ -39,12 +39,16 @@ The objective of this project is to build a machine learning classification mode
 
 1. **Install required libraries via pip:** pip install pandas numpy matplotlib seaborn scikit-learn
 2. **Add Dataset Path:** Upload or link the dataset (e.g., pima_diabetes_data.csv) in your working directory or Colab environment.
-3. **Run the PySpark Script in Google Colab:** Open the notebook or script in Google Colab and execute the cells.
-4. **Execute all cells in order to see the output:** The output will be displayed in the notebook.
+3. **Execute all cells in order to see the output:** The output will be displayed in the notebook.
 
 ## 📸 Output Screenshot
 
 ![Screenshot 2025-06-13 123315](https://github.com/user-attachments/assets/f505ac28-2047-4fc3-af06-1c0725b25462)
+![Screenshot 2025-06-13 123330](https://github.com/user-attachments/assets/b9663e89-7928-4ea2-a91c-bac433cdbd7d)
+![Screenshot 2025-06-13 123347](https://github.com/user-attachments/assets/36ec8ba7-4162-43e0-a0ff-db55e0788419)
+![Screenshot 2025-06-13 123608](https://github.com/user-attachments/assets/bdbe5ee7-f7ee-42ee-95a8-88fbc29e4f87)
+
+
 
 
 
