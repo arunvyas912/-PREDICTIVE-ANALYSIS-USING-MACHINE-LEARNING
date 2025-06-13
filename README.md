@@ -37,9 +37,10 @@ The objective of this project is to build a machine learning classification mode
 
 ## ▶️ How to Run
 
-1. **Install required libraries via pip:** pip install pandas numpy matplotlib seaborn scikit-learn
-2. **Add Dataset Path:** Upload or link the dataset (e.g., pima_diabetes_data.csv) in your working directory or Colab environment.
-3. **Execute all cells in order to see the output:** The output will be displayed in the notebook.
+1. Open Google Colab
+2. Install required libraries via pip: pip install pandas numpy matplotlib seaborn scikit-learn
+3. Add Dataset Path: Upload or link the dataset (e.g., pima_diabetes_data.csv) in your working directory or Colab environment.
+4. Execute all cells in order to see the output: The output will be displayed in the notebook.
 
 ## 📸 Output Screenshot
 
